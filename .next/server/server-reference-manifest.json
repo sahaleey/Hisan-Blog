@@ -1,0 +1,180 @@
+{
+  "node": {
+    "006474009bca8c133430bafa2b7cbe87bc2d803d47": {
+      "workers": {
+        "app/archive/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/authors/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/submit/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/writers/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/writers/[id]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%2C%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%2C%5B%7B%22id%22%3A%22402bd06b1d391be5381785ca1703498cd276838037%22%2C%22exportedName%22%3A%22updateReport%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%22402faa5ad3b3e3443638f95f19edd43a7465296b1d%22%2C%22exportedName%22%3A%22updateWriterVerification%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240502441e71c0b569fe4178fd93493a9288b6080fc%22%2C%22exportedName%22%3A%22updateWriterRole%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240534e5e94508abe4e2e3f1cd01a6df1ff29b5e0fd%22%2C%22exportedName%22%3A%22reviewWork%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240b74047a428a77cb11969b0eef10a8ebba0af33d8%22%2C%22exportedName%22%3A%22updateWriterStatus%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/_not-found/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/archive/page": "rsc",
+        "app/page": "rsc",
+        "app/authors/page": "rsc",
+        "app/submit/page": "rsc",
+        "app/admin/page": "rsc",
+        "app/admin/writers/page": "rsc",
+        "app/admin/writers/[id]/page": "rsc",
+        "app/_not-found/page": "rsc"
+      },
+      "filename": "../D:\\hisan\\Hisan Blog\\components\\auth-controls.tsx",
+      "exportedName": "$$RSC_SERVER_ACTION_0"
+    },
+    "00def25a256eec6d2fcefe0bb1d55f6abd846b94fe": {
+      "workers": {
+        "app/archive/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/authors/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/submit/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/writers/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/writers/[id]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%2C%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%2C%5B%7B%22id%22%3A%22402bd06b1d391be5381785ca1703498cd276838037%22%2C%22exportedName%22%3A%22updateReport%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%22402faa5ad3b3e3443638f95f19edd43a7465296b1d%22%2C%22exportedName%22%3A%22updateWriterVerification%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240502441e71c0b569fe4178fd93493a9288b6080fc%22%2C%22exportedName%22%3A%22updateWriterRole%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240534e5e94508abe4e2e3f1cd01a6df1ff29b5e0fd%22%2C%22exportedName%22%3A%22reviewWork%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240b74047a428a77cb11969b0eef10a8ebba0af33d8%22%2C%22exportedName%22%3A%22updateWriterStatus%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/_not-found/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/archive/page": "rsc",
+        "app/page": "rsc",
+        "app/authors/page": "rsc",
+        "app/submit/page": "rsc",
+        "app/admin/page": "rsc",
+        "app/admin/writers/page": "rsc",
+        "app/admin/writers/[id]/page": "rsc",
+        "app/_not-found/page": "rsc"
+      },
+      "filename": "../D:\\hisan\\Hisan Blog\\components\\auth-controls.tsx",
+      "exportedName": "$$RSC_SERVER_ACTION_1"
+    },
+    "606930ddf8a18c7aeea256d0e8962dd9ffbbda9e20": {
+      "workers": {
+        "app/submit/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Csubmissions.ts%22%2C%5B%7B%22id%22%3A%22606930ddf8a18c7aeea256d0e8962dd9ffbbda9e20%22%2C%22exportedName%22%3A%22submitWork%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Csubmissions.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/submit/page": "action-browser"
+      },
+      "filename": "../D:\\hisan\\Hisan Blog\\lib\\submissions.ts",
+      "exportedName": "submitWork"
+    },
+    "402bd06b1d391be5381785ca1703498cd276838037": {
+      "workers": {
+        "app/admin/writers/[id]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%2C%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%2C%5B%7B%22id%22%3A%22402bd06b1d391be5381785ca1703498cd276838037%22%2C%22exportedName%22%3A%22updateReport%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%22402faa5ad3b3e3443638f95f19edd43a7465296b1d%22%2C%22exportedName%22%3A%22updateWriterVerification%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240502441e71c0b569fe4178fd93493a9288b6080fc%22%2C%22exportedName%22%3A%22updateWriterRole%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240534e5e94508abe4e2e3f1cd01a6df1ff29b5e0fd%22%2C%22exportedName%22%3A%22reviewWork%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240b74047a428a77cb11969b0eef10a8ebba0af33d8%22%2C%22exportedName%22%3A%22updateWriterStatus%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/writers/[id]/page": "rsc"
+      },
+      "filename": "../D:\\hisan\\Hisan Blog\\lib\\admin-actions.ts",
+      "exportedName": "updateReport"
+    },
+    "402faa5ad3b3e3443638f95f19edd43a7465296b1d": {
+      "workers": {
+        "app/admin/writers/[id]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%2C%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%2C%5B%7B%22id%22%3A%22402bd06b1d391be5381785ca1703498cd276838037%22%2C%22exportedName%22%3A%22updateReport%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%22402faa5ad3b3e3443638f95f19edd43a7465296b1d%22%2C%22exportedName%22%3A%22updateWriterVerification%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240502441e71c0b569fe4178fd93493a9288b6080fc%22%2C%22exportedName%22%3A%22updateWriterRole%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240534e5e94508abe4e2e3f1cd01a6df1ff29b5e0fd%22%2C%22exportedName%22%3A%22reviewWork%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240b74047a428a77cb11969b0eef10a8ebba0af33d8%22%2C%22exportedName%22%3A%22updateWriterStatus%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/writers/[id]/page": "rsc"
+      },
+      "filename": "../D:\\hisan\\Hisan Blog\\lib\\admin-actions.ts",
+      "exportedName": "updateWriterVerification"
+    },
+    "40502441e71c0b569fe4178fd93493a9288b6080fc": {
+      "workers": {
+        "app/admin/writers/[id]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%2C%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%2C%5B%7B%22id%22%3A%22402bd06b1d391be5381785ca1703498cd276838037%22%2C%22exportedName%22%3A%22updateReport%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%22402faa5ad3b3e3443638f95f19edd43a7465296b1d%22%2C%22exportedName%22%3A%22updateWriterVerification%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240502441e71c0b569fe4178fd93493a9288b6080fc%22%2C%22exportedName%22%3A%22updateWriterRole%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240534e5e94508abe4e2e3f1cd01a6df1ff29b5e0fd%22%2C%22exportedName%22%3A%22reviewWork%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240b74047a428a77cb11969b0eef10a8ebba0af33d8%22%2C%22exportedName%22%3A%22updateWriterStatus%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/writers/[id]/page": "rsc"
+      },
+      "filename": "../D:\\hisan\\Hisan Blog\\lib\\admin-actions.ts",
+      "exportedName": "updateWriterRole"
+    },
+    "40534e5e94508abe4e2e3f1cd01a6df1ff29b5e0fd": {
+      "workers": {
+        "app/admin/writers/[id]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%2C%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%2C%5B%7B%22id%22%3A%22402bd06b1d391be5381785ca1703498cd276838037%22%2C%22exportedName%22%3A%22updateReport%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%22402faa5ad3b3e3443638f95f19edd43a7465296b1d%22%2C%22exportedName%22%3A%22updateWriterVerification%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240502441e71c0b569fe4178fd93493a9288b6080fc%22%2C%22exportedName%22%3A%22updateWriterRole%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240534e5e94508abe4e2e3f1cd01a6df1ff29b5e0fd%22%2C%22exportedName%22%3A%22reviewWork%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240b74047a428a77cb11969b0eef10a8ebba0af33d8%22%2C%22exportedName%22%3A%22updateWriterStatus%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/writers/[id]/page": "rsc"
+      },
+      "filename": "../D:\\hisan\\Hisan Blog\\lib\\admin-actions.ts",
+      "exportedName": "reviewWork"
+    },
+    "40b74047a428a77cb11969b0eef10a8ebba0af33d8": {
+      "workers": {
+        "app/admin/writers/[id]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%2C%5B%7B%22id%22%3A%22006474009bca8c133430bafa2b7cbe87bc2d803d47%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%2C%7B%22id%22%3A%2200def25a256eec6d2fcefe0bb1d55f6abd846b94fe%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_1%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Ccomponents%5C%5Cauth-controls.tsx%22%7D%5D%5D%2C%5B%22D%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%2C%5B%7B%22id%22%3A%22402bd06b1d391be5381785ca1703498cd276838037%22%2C%22exportedName%22%3A%22updateReport%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%22402faa5ad3b3e3443638f95f19edd43a7465296b1d%22%2C%22exportedName%22%3A%22updateWriterVerification%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240502441e71c0b569fe4178fd93493a9288b6080fc%22%2C%22exportedName%22%3A%22updateWriterRole%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240534e5e94508abe4e2e3f1cd01a6df1ff29b5e0fd%22%2C%22exportedName%22%3A%22reviewWork%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%2C%7B%22id%22%3A%2240b74047a428a77cb11969b0eef10a8ebba0af33d8%22%2C%22exportedName%22%3A%22updateWriterStatus%22%2C%22filename%22%3A%22..%2FD%3A%5C%5Chisan%5C%5CHisan%20Blog%5C%5Clib%5C%5Cadmin-actions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/writers/[id]/page": "rsc"
+      },
+      "filename": "../D:\\hisan\\Hisan Blog\\lib\\admin-actions.ts",
+      "exportedName": "updateWriterStatus"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Fs5ZykyKL8UH+Rsl5sunOipDWWCMWAJiWGm1WicFx6w="
+}

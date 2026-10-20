@@ -1,0 +1,5 @@
+.neon
+.env.local
+.env.example
+node_modules/
+.next

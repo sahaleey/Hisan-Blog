@@ -1,0 +1,9 @@
+{
+  "/authors/page": "app/authors/page.js",
+  "/archive/page": "app/archive/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/admin/writers/page": "app/admin/writers/page.js",
+  "/admin/writers/[id]/page": "app/admin/writers/[id]/page.js",
+  "/admin/page": "app/admin/page.js"
+}
